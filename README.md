@@ -1,6 +1,5 @@
 # Olá! Eu sou Hítallo Freitas.
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=hitallof&color=green)
 
 ## Sobre Mim
 Desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Trabalho principalmente com **JavaScript**, **React** e **Node.js**. Atualmente, estou focado(a) em desenvolver aplicações web escaláveis e performáticas.
