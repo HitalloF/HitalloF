@@ -3,7 +3,7 @@
 
 
 ## Sobre Mim
-Desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Trabalho principalmente com **JavaScript**, **React** e **Node.js**. Atualmente, estou focado(a) em desenvolver aplicações web escaláveis e performáticas.
+Desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalmente com **JavaScript**, **React** e **Node.js**. Atualmente, estou focado(a) em desenvolver aplicações web escaláveis e performáticas.
 
 ## Habilidades
 - **Linguagens**: JavaScript, TypeScript, Python, etc.
