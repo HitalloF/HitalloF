@@ -13,7 +13,7 @@ Desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Trabalho principalme
 
 
 ## Contato
-- **Email**: [seuemail@example.com](mailto:seuemail@example.com)
+- **Email**: [hitallosp4@gmail.com](mailto:hitallosp4@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
 - [Portfólio](https://seuportfolio.com)
 
