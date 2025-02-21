@@ -6,10 +6,10 @@
 Desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalmente com **JavaScript**, **React** e **Node.js**. Atualmente, estou focado(a) em desenvolver aplicações web escaláveis e performáticas.
 
 ## Habilidades
-- **Linguagens**: JavaScript, TypeScript, Python, etc.
-- **Frameworks**: React, Next.js, Node.js, Express, etc.
-- **Ferramentas**: Git, Docker, Webpack, etc.
-- **Banco de Dados**: MongoDB, PostgreSQL, MySQL
+- **Linguagens**: JavaScript, TypeScript, Golang, Java.
+- **Frameworks**: React, Next.js, Node.js, Express, SpringBoot.
+- **Ferramentas**: Git, Docker.
+- **Banco de Dados**:  PostgreSQL, MySQL
 
 
 ## Contato
