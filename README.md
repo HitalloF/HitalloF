@@ -14,7 +14,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalmente co
 
 ## Contato
 - **Email**: [hitallosp4@gmail.com](mailto:hitallosp4@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
+- [LinkedIn](https://www.linkedin.com/in/hitallof/)
 
 
 ## Estatísticas do GitHub
